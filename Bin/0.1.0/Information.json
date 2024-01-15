@@ -1,0 +1,15 @@
+{
+  "port": "SystemUsers-Main",
+  "name": "Bin",
+  "version": "0.1.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Virtual installer to add bin system user",
+  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Bin",
+  "installedFiles": [],
+  "dependencies": [],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueOptions": []
+}
