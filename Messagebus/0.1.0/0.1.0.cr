@@ -6,7 +6,7 @@ class Target < ISM::VirtualSoftware
         if option("Pass1")
             updateUserFile("messagebus:x:18:18:D-Bus Message Daemon User:/run/dbus:/usr/bin/false")
         else
-            runUserAddCommand(["-c","D-Bus Message Daemon User","-d","/run/dbus","-u18","-g18","-s","/usr/bin/false","messagebus"])
+            runUserAddCommand(["-c","\"D-Bus Message Daemon User\"","-d","/run/dbus","-u18","-g18","-s","/usr/bin/false","messagebus"])
         end
     end
 
