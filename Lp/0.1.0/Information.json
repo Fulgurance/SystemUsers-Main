@@ -1,0 +1,24 @@
+{
+  "port": "SystemUsers-Main",
+  "name": "Lp",
+  "version": "0.1.0",
+  "architectures": [
+    "x86_64"
+  ],
+  "description": "Virtual installer to add lp system user",
+  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Lp",
+  "installedFiles": [],
+  "dependencies": [],
+  "kernelDependencies": [],
+  "options": [
+    {
+      "name": "@SystemGroups-Main:Lp",
+      "version": ">=0.1.0",
+      "options": []
+    }
+  ],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
