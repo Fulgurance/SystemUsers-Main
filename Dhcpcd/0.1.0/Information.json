@@ -2,15 +2,14 @@
   "port": "SystemUsers-Main",
   "name": "Dhcpcd",
   "version": "0.1.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Virtual installer to add dhcpcd system user",
   "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Dhcpcd",
   "installedFiles": [],
   "dependencies": [
     {
-      "name": "@SystemGroups-Main:Dhdpcd",
+      "port": "SystemGroups-Main",
+      "name": "Dhdpcd",
       "version": ">=0.1.0",
       "options": []
     }

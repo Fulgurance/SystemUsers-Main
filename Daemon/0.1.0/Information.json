@@ -2,14 +2,13 @@
   "port": "SystemUsers-Main",
   "name": "Daemon",
   "version": "0.1.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Virtual installer to add daemon system user",
   "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Daemon",
   "installedFiles": [],
   "dependencies": [
     {
+      "port": "Security-Main",
       "name": "Shadow",
       "version": ">=0.0.0",
       "options": []
@@ -23,6 +22,7 @@
       "active": false,
       "dependencies": [
         {
+          "port": "SystemBase-Main",
           "name": "ChrootBase",
           "version": ">=0.0.0",
           "options": []

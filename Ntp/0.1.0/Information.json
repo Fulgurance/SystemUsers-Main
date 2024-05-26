@@ -2,15 +2,14 @@
   "port": "SystemUsers-Main",
   "name": "Ntp",
   "version": "0.1.0",
-  "architectures": [
-    "x86_64"
-  ],
+  "architectures": ["x86_64"],
   "description": "Virtual installer to add ntp system user",
   "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Ntp",
   "installedFiles": [],
   "dependencies": [
     {
-      "name": "@SystemGroups-Main:Ntp",
+      "port": "SystemGroups-Main",
+      "name": "Ntp",
       "version": ">=0.1.0",
       "options": []
     }
