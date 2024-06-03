@@ -1,0 +1,23 @@
+{
+  "port": "SystemUsers-Main",
+  "name": "Cronie",
+  "version": "0.1.0",
+  "architectures": ["x86_64"],
+  "description": "Virtual installer to add cronie system user",
+  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Root",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "SystemGroups-Main",
+      "name": "Cronie",
+      "version": ">=0.1.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
