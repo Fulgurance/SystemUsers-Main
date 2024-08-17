@@ -9,7 +9,7 @@
   "dependencies": [
     {
       "port": "SystemGroups-Main",
-      "name": "Dhdpcd",
+      "name": "Dhcpcd",
       "version": ">=0.1.0",
       "options": []
     }
