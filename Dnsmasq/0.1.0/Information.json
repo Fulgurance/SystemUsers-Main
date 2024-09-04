@@ -1,15 +1,15 @@
 {
   "port": "SystemUsers-Main",
-  "name": "Postgres",
+  "name": "Dnsmasq",
   "version": "0.1.0",
   "architectures": ["x86_64"],
-  "description": "Virtual installer to add postgres system user",
-  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Postgres",
+  "description": "Virtual installer to add dnsmasq system user",
+  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Dnsmasq",
   "installedFiles": [],
   "dependencies": [
     {
       "port": "SystemGroups-Main",
-      "name": "Postgres",
+      "name": "Dnsmasq",
       "version": ">=0.1.0",
       "options": []
     }
