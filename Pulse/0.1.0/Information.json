@@ -1,10 +1,10 @@
 {
   "port": "SystemUsers-Main",
-  "name": "Sddm",
+  "name": "Pulse",
   "version": "0.1.0",
   "architectures": ["x86_64"],
-  "description": "Virtual installer to add sddm system user",
-  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Sddm",
+  "description": "Virtual installer to add pulse system user",
+  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Pulse",
   "installedFiles": [],
   "dependencies": [
     {
