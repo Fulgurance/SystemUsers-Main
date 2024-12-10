@@ -1,0 +1,38 @@
+{
+  "port": "SystemUsers-Main",
+  "name": "Ism",
+  "version": "0.1.0",
+  "architectures": ["x86_64"],
+  "description": "Virtual installer to add ism system user",
+  "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Ism",
+  "installedFiles": [],
+  "dependencies": [
+    {
+      "port": "SystemGroups-Main",
+      "name": "Ism",
+      "version": ">=0.1.0",
+      "options": []
+    }
+  ],
+  "kernelDependencies": [],
+  "options": [
+    {
+      "name": "Pass1",
+      "description": "Enable the phase 1 building of the system base",
+      "active": false,
+      "dependencies": [
+        {
+          "port": "SystemBase-Main",
+          "name": "ChrootBase",
+          "version": ">=0.0.0",
+          "options": []
+        }
+      ],
+      "kernelDependencies": []
+    }
+  ],
+  "uniqueDependencies": [],
+  "uniqueOptions": [],
+  "selectedDependencies": [],
+  "allowCodependencies": []
+}
