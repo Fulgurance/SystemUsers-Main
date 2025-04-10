@@ -6,14 +6,7 @@
   "description": "Virtual installer to add messagebus system user",
   "website": "https://github.com/Fulgurance/SystemUsers-Main/tree/master/Messagebus",
   "installedFiles": [],
-  "dependencies": [
-    {
-      "port": "SecuritySoftwares-Main",
-      "name": "Shadow",
-      "version": ">=0.0.0",
-      "options": []
-    }
-  ],
+  "dependencies": [],
   "kernelDependencies": [],
   "options": [],
   "uniqueDependencies": [],
