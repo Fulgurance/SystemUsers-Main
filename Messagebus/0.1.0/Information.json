@@ -8,10 +8,10 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "SystemBase-Main",
-      "name": "SystemBase",
-      "version": ">=0.2.0",
-      "options": ["Pass1"]
+      "port": "SystemGroups-Main",
+      "name": "Messagebus",
+      "version": ">=0.1.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
