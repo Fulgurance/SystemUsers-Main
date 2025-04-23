@@ -8,10 +8,10 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "SystemBase-Main",
-      "name": "SystemBase",
-      "version": ">=0.2.0",
-      "options": ["Pass1"]
+      "port": "Security-Main",
+      "name": "Shadow",
+      "version": ">=4.16.0",
+      "options": []
     }
   ],
   "kernelDependencies": [],
