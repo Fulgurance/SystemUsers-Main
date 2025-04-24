@@ -8,10 +8,10 @@
   "installedFiles": [],
   "dependencies": [
     {
-      "port": "SecuritySoftwares-Main",
-      "name": "Shadow",
-      "version": ">=4.16.0",
-      "options": []
+      "port": "SystemBase-Main",
+      "name": "SystemBase",
+      "version": ">=0.2.0",
+      "options": ["Pass2"]
     }
   ],
   "kernelDependencies": [],
