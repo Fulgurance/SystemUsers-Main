@@ -9,9 +9,9 @@
   "dependencies": [
     {
       "port": "SystemBase-Main",
-      "name": "ChrootBase",
+      "name": "SystemBase",
       "version": ">=0.2.0",
-      "options": []
+      "options": ["Pass2"]
     }
   ],
   "kernelDependencies": [],
