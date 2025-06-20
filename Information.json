@@ -1,0 +1,6 @@
+{
+  "name": "SystemUsers-Main",
+  "url": "https://github.com/Fulgurance/SystemUsers-Main",
+  "publicKeyUrl": "http://www.slashlinux.io/keyring/Fulgurance.key",
+  "description": "Port that contain all system users"
+}
