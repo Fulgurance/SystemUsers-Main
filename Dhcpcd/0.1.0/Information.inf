@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Dhcpcd
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add dhcpcd system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Dhcpcd
+DEPENDENCIES
+        @SystemGroups-Main:Dhcpcd>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

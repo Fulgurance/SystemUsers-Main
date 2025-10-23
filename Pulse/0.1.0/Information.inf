@@ -1,0 +1,20 @@
+PORT
+    SystemUsers-Main
+NAME
+    Pulse
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add pulse system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Pulse
+DEPENDENCIES
+        @SystemGroups-Main:Pulse>=0.1.0
+        @SystemGroups-Main:Audio>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

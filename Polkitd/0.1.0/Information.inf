@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Polkitd
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add polkitd system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Polkitd
+DEPENDENCIES
+        @SystemGroups-Main:Polkitd>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

@@ -1,0 +1,20 @@
+PORT
+    SystemUsers-Main
+NAME
+    Bin
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add bin system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Bin
+DEPENDENCIES
+        @SystemGroups-Main:Bin>=0.1.0
+        @SystemGroups-Main:Daemon>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

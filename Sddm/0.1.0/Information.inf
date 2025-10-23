@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Sddm
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add sddm system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Sddm
+DEPENDENCIES
+        @SystemGroups-Main:Sddm>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

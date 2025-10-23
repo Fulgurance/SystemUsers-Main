@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Ntp
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add ntp system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Ntp
+DEPENDENCIES
+        @SystemGroups-Main:Ntp>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

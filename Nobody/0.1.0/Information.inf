@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Nobody
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add nobody system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Nobody
+DEPENDENCIES
+        @SystemBase-Main:SystemBase>=0.2.0(Pass2)
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES

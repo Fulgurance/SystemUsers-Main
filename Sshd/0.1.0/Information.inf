@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Sshd
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add sshd system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Sshd
+DEPENDENCIES
+        @SystemGroups-Main:Sshd>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
