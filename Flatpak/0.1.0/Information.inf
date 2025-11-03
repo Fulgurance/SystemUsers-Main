@@ -1,0 +1,19 @@
+PORT
+    SystemUsers-Main
+NAME
+    Flatpak
+VERSION
+    0.1.0
+ARCHITECTURES
+    x86_64
+DESCRIPTION
+    Virtual installer to add flatpak system user
+WEBSITE
+    https://github.com/Fulgurance/SystemUsers-Main/tree/master/Flatpak
+DEPENDENCIES
+        @SystemGroups-Main:Flatpak>=0.1.0
+KERNELDEPENDENCIES
+OPTIONS
+UNIQUEDEPENDENCIES
+UNIQUEOPTIONS
+ALLOWCODEPENDENCIES
